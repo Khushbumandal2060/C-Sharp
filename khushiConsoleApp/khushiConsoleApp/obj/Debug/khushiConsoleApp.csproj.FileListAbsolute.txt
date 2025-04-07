@@ -1,0 +1,7 @@
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\bin\Debug\khushiConsoleApp.exe.config
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\bin\Debug\khushiConsoleApp.exe
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\bin\Debug\khushiConsoleApp.pdb
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\obj\Debug\khushiConsoleApp.csproj.AssemblyReference.cache
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\obj\Debug\khushiConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\obj\Debug\khushiConsoleApp.exe
+C:\Users\KHUSBU\Desktop\C-Sharp\khushiConsoleApp\khushiConsoleApp\obj\Debug\khushiConsoleApp.pdb
